@@ -1,4 +1,6 @@
-# PapaPOS
+# App scaffolding
+
+App scaffolding with Vue.js (v3) and Laravel (v8) and Docker.
 
 **Instructions**
 
