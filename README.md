@@ -3,8 +3,8 @@
 **Instructions**
 
 ````
-$ git clone https://github.com/martinszeltins/PapaPOS.git
-$ cd PapaPOS
+$ git clone https://github.com/martinszeltins/app-scaffolding.git
+$ cd app-scaffolding
 $ docker-compose up -d
 ````
 
