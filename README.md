@@ -22,16 +22,19 @@ The app will be running at [http://localhost:15319/](http://localhost:15319/)
 
 There seems to be a bug with Vue router 4 where it doesn't render nested components on router.push()
 
+<br>
 
 **Change scaffold variables**
 
 Search for all "scaffold" variables and change them to your liking.
 
+<br>
 
 **Intellisense**
 
 In order to get intellisense to work, you should also install both client and server dependencies (npm install and composer install)
 
+<br>
 
 **Adminer**
 
@@ -44,7 +47,7 @@ Username: root
 Password: scaffold_password
 ````
 
-
+<br>
 
 **Add a TLS certificate**
 
