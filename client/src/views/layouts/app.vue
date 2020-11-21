@@ -1,5 +1,9 @@
 <template>
-    <b>App layout</b> <br><br>
+    <div>
+        <b>App layout</b> <br><br>
 
-    <router-view></router-view>
+        <div>
+            <router-view></router-view>
+        </div>
+    </div>
 </template>
