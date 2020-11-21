@@ -15,6 +15,7 @@ $ docker-compose up -d
 *And another minute after the build to install dependencies.*
 
 The app will be running at [http://localhost:15319/](http://localhost:15319/)
+
 <br>
 
 **Known issues**
