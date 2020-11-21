@@ -9,11 +9,11 @@ import auth from './middleware/auth.js'
 const routes = [
     {
         path: "/",
-        name: "home",
         component: AppLayout,
         children: [
             {
                 path: '',
+                name: "home",
                 component: Home,
             }
         ],
@@ -24,11 +24,11 @@ const routes = [
 
     {
         path: "/login",
-        name: "login",
         component: LoginLayout,
         children: [
             {
                 path: '',
+                name: "login",
                 component: Login,
             }
         ],
