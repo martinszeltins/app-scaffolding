@@ -15,8 +15,8 @@ $ docker-compose up -d
 *And another minute after the build to install dependencies.*
 
 The app will be running at [http://localhost:15319/](http://localhost:15319/)
-
 <br>
+
 **Known issues**
 
 There seems to be a bug with Vue router 4 where it doesn't render nested components on router.push()
