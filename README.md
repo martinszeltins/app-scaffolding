@@ -1,6 +1,6 @@
 # App scaffolding
 
-App scaffolding with Vue.js (v3) and Laravel (v8) and Docker.
+App scaffolding with Vue.js (v3) and Laravel (v8) and Docker and JWT tokens for auth.
 
 **Instructions**
 
