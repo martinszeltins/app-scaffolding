@@ -14,7 +14,7 @@ $ docker-compose up -d
 
 *And another minute after the build to install dependencies.*
 
-The app will be running at ````http://localhost:15319/````
+The app will be running at [http://localhost:15319/](http://localhost:15319/)
 
 **Change scaffold variables**
 
