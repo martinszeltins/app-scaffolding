@@ -16,6 +16,7 @@ $ docker-compose up -d
 
 The app will be running at [http://localhost:15319/](http://localhost:15319/)
 
+<br><br>
 
 **Known issues**
 
