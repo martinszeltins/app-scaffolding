@@ -18,6 +18,12 @@ The app will be running at [http://localhost:15319/](http://localhost:15319/)
 
 <br>
 
+**Important (!)**
+
+*If containers get stopped, remove the containers (not images) and remove all volumes associated with app otherwise the seeder will try to run again and cause duplicate key conflict.*
+
+<br>
+
 **Change scaffold variables**
 
 Search for all "scaffold" variables and change them to your liking.
